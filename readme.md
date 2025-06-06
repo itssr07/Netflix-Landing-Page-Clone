@@ -19,3 +19,27 @@ Every piece of code jo v likhe hai kaafi simple and understandable hai try to le
 Let's Start (Keep Learning and Keep Exploring)...
 Happy Coding...
 
+
+# 🍿 Netflix Landing Page Clone
+
+A pixel-perfect, responsive clone of the official Netflix landing page built using HTML, and CSS. This front-end project replicates the real look and feel of Netflix's homepage, making it a great exercise for mastering responsive web design and layout techniques.
+
+## 🚀 Features
+
+- Modern, clean UI inspired by Netflix
+- Responsive design for all screen sizes
+- Hero section with background image/video
+- Sign-in form layout
+- Call-to-action (CTA) sections
+- Fully static front-end — no frameworks used
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+
+
+
+
+
+
